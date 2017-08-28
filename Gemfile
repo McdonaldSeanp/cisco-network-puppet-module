@@ -65,6 +65,7 @@ group :development, :unit_tests do
   gem 'pry',                     require: false
   gem 'rubocop', '= 0.35.1',     require: false
   gem 'simplecov',               require: false
+  gem 'puppet-blacksmith'
 end
 
 # vim:ft=ruby
